@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"sync"
 
+	"github.com/gappy023/basic/config"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/microservice/part1/basic/config"
 
 	log "github.com/micro/go-micro/v2/logger"
 )

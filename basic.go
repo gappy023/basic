@@ -1,9 +1,9 @@
 package basic
 
 import (
-	"github.com/microservice/part1/basic/config"
-	"github.com/microservice/part1/basic/db"
-	"github.com/microservice/part1/basic/redis"
+	"github.com/gappy023/basic/basic/db"
+	"github.com/gappy023/basic/config"
+	"github.com/gappy023/basic/redis"
 )
 
 func Init() {

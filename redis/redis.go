@@ -3,7 +3,7 @@ package redis
 import (
 	"sync"
 
-	"github.com/microservice/part1/basic/config"
+	"github.com/gappy023/basic/config"
 
 	"github.com/go-redis/redis"
 	log "github.com/micro/go-micro/v2/logger"

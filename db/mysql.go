@@ -3,7 +3,7 @@ package db
 import (
 	"database/sql"
 
-	"github.com/microservice/part1/basic/config"
+	"github.com/gappy023/basic/config"
 	log "github.com/micro/go-micro/v2/logger"
 )
 
