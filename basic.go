@@ -1,8 +1,8 @@
 package basic
 
 import (
-	"github.com/gappy023/basic/basic/db"
 	"github.com/gappy023/basic/config"
+	"github.com/gappy023/basic/db"
 	"github.com/gappy023/basic/redis"
 )
 
